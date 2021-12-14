@@ -1,6 +1,6 @@
 # PaginaLojaAleatoria
 
-## Acessar: https://rafaellaevboff.github.io/PaginaLojaAleatoria/
+ Acessar site: https://rafaellaevboff.github.io/PaginaLojaAleatoria/
 
 - HTML5
 - CSS
